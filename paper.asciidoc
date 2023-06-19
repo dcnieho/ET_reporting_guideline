@@ -1,43 +1,61 @@
 = Minimal reporting guideline for research involving eye tracking (2023 edition)
 
-Matt J Dunn^1^, Robert G Alexander^2^, Onyekachukwu M Amiebenomo^1^,
-Gemma Arblaster^3,4^, Denize Atan^5^, Jonathan T Erichsen^1^, Ulrich
-Ettinger^6^, Mario E Giardini^7^, Iain D Gilchrist^8^, Ruth
-Hamilton^9,10^, Roy S Hessels^11^, Scott Hodgins^12^, Ignace TC
-Hooge^11^, Brooke S Jackson^13^, Helena Lee^14^, Stephen L Macknik^2^,
-Susana Martinez-Conde^2^, Lee Mcilreavy^1^, Lisa M Muratori^15^,
-Diederick C Niehorster^16,17^, Marcus Nyström^16^, Jorge
-Otero-Millan^18,19^, Michael M Schlüssel^20^, Jay E Self^14^, Tarkeshwar
-Singh^21^, Nikolaos Smyrnis^22^, Andreas Sprenger^23^
+Matt J Dunn^<<cardiff,1>>^,
+Robert G Alexander^<<suny,2>>^,
+Onyekachukwu M Amiebenomo^<<cardiff,1>>^,
+Gemma Arblaster^<<sheffield,3>>,<<sheffieldNHS,4>>^,
+Denize Atan^<<bristolms,5>>^,
+Jonathan T Erichsen^<<cardiff,1>>^,
+Ulrich Ettinger^<<bonn,6>>^,
+Mario E Giardini^<<strathclyde,7>>^,
+Iain D Gilchrist^<<bristolpsy,8>>^,
+Ruth Hamilton^<<nhsglasgow,9>>,<<glasgow,10>>^,
+Roy S Hessels^<<uu,11>>^,
+Scott Hodgins^<<alysco,12>>^,
+Ignace TC Hooge^<<uu,11>>^,
+Brooke S Jackson^<<georgia,13>>^,
+Helena Lee^<<southampton,14>>^,
+Stephen L Macknik^<<suny,2>>^,
+Susana Martinez-Conde^<<suny,2>>^,
+Lee Mcilreavy^<<bristolms,1>>^,
+Lisa M Muratori^<<stonybrook,15>>^,
+Diederick C Niehorster^<<LUhumlab,16>>,<<LUpsy,17>>^,
+Marcus Nyström^<<LUhumlab,16>>^,
+Jorge Otero-Millan^<<berkeley,18>>,<<JHU,19>>^,
+Michael M Schlüssel^<<oxford,20>>^,
+Jay E Self^<<southampton,14>>^,
+Tarkeshwar Singh^<<pennU,21>>^,
+Nikolaos Smyrnis^<<athens,22>>^,
+Andreas Sprenger^<<luebeck,23>>^,
 
 .Click to view affiliations
 [%collapsible]
 ====
 [%hardbreaks]
-^1^ School of Optometry and Vision Sciences, Cardiff University, Cardiff, UK
-^2^ Departments of Ophthalmology, Neurology, and Physiology/Pharmacology, SUNY Downstate Health Sciences University, Brooklyn, NY, USA
-^3^ Health Sciences School, University of Sheffield, Sheffield, UK
-^4^ Orthoptic Department, Sheffield Teaching Hospitals NHS Foundation Trust, Sheffield, UK
-^5^ Bristol Medical School, University of Bristol, Bristol, UK
-^6^ Department of Psychology, University of Bonn, Bonn, Germany
-^7^ Department of Biomedical Engineering, University of Strathclyde, Glasgow, UK
-^8^ School of Psychological Science, University of Bristol, Bristol, UK
-^9^ Department of Clinical Physics & Bioengineering, Royal Hospital for Children, NHS Greater Glasgow & Clyde, Glasgow, UK
-^10^ College of Medical, Veterinary & Life Sciences, University of Glasgow, Glasgow, UK
-^11^ Experimental Psychology, Helmholtz Institute, Utrecht University, Utrecht, The Netherlands
-^12^ Alysco Ventures LLP, Sedbergh, UK
-^13^ Department of Psychology, University of Georgia, Athens, GA, USA
-^14^ Clinical and Experimental Sciences, University of Southampton, Southampton, UK
-^15^ Department of Physical Therapy, School of Health Professions, Stony Brook University, Stony Brook, NY, USA
-^16^ Lund University Humanities Lab, Lund University, Lund, Sweden
-^17^ Department of Psychology, Lund University, Lund, Sweden
-^18^ Herbert Wertheim School of Optometry and Vision Science, University of California, Berkeley, CA, USA
-^19^ Department of Neurology, Johns Hopkins University, Baltimore, MD, USA
-^20^ UK EQUATOR Centre, Centre for Statistics in Medicine (CSM), Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences (NDORMS), University of Oxford, Oxford, UK
-^21^ Department of Kinesiology, Pennsylvania State University, University Park, PA, USA
-^22^ 2^nd^ Department of Psychiatry, National and Kapodistrian University of Athens, Medical School, General University Hospital
+^1^ [[cardiff]]School of Optometry and Vision Sciences, Cardiff University, Cardiff, UK
+^2^ [[suny]]Departments of Ophthalmology, Neurology, and Physiology/Pharmacology, SUNY Downstate Health Sciences University, Brooklyn, NY, USA
+^3^ [[sheffield]]Health Sciences School, University of Sheffield, Sheffield, UK
+^4^ [[sheffieldNHS]]Orthoptic Department, Sheffield Teaching Hospitals NHS Foundation Trust, Sheffield, UK
+^5^ [[bristolms]]Bristol Medical School, University of Bristol, Bristol, UK
+^6^ [[bonn]]Department of Psychology, University of Bonn, Bonn, Germany
+^7^ [[strathclyde]]Department of Biomedical Engineering, University of Strathclyde, Glasgow, UK
+^8^ [[bristolpsy]]School of Psychological Science, University of Bristol, Bristol, UK
+^9^ [[nhsglasgow]]Department of Clinical Physics & Bioengineering, Royal Hospital for Children, NHS Greater Glasgow & Clyde, Glasgow, UK
+^10^ [[glasgow]]College of Medical, Veterinary & Life Sciences, University of Glasgow, Glasgow, UK
+^11^ [[uu]]Experimental Psychology, Helmholtz Institute, Utrecht University, Utrecht, The Netherlands
+^12^ [[alysco]]Alysco Ventures LLP, Sedbergh, UK
+^13^ [[georgia]]Department of Psychology, University of Georgia, Athens, GA, USA
+^14^ [[southampton]]Clinical and Experimental Sciences, University of Southampton, Southampton, UK
+^15^ [[stonybrook]]Department of Physical Therapy, School of Health Professions, Stony Brook University, Stony Brook, NY, USA
+^16^ [[LUhumlab]]Lund University Humanities Lab, Lund University, Lund, Sweden
+^17^ [[LUpsy]]Department of Psychology, Lund University, Lund, Sweden
+^18^ [[berkeley]]Herbert Wertheim School of Optometry and Vision Science, University of California, Berkeley, CA, USA
+^19^ [[JHU]]Department of Neurology, Johns Hopkins University, Baltimore, MD, USA
+^20^ [[oxford]]UK EQUATOR Centre, Centre for Statistics in Medicine (CSM), Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences (NDORMS), University of Oxford, Oxford, UK
+^21^ [[pennU]]Department of Kinesiology, Pennsylvania State University, University Park, PA, USA
+^22^ [[athens]]2^nd^ Department of Psychiatry, National and Kapodistrian University of Athens, Medical School, General University Hospital
 Attikon, Athens, Greece
-^23^ Department of Neurology and Institute of Psychology II, Center of Brain, Behavior and Metabolism (CBBM), University of Luebeck, Luebeck, Germany
+^23^ [[luebeck]]Department of Neurology and Institute of Psychology II, Center of Brain, Behavior and Metabolism (CBBM), University of Luebeck, Luebeck, Germany
 ====
 
 Authors Alexander through Sprenger are listed alphabetically.
