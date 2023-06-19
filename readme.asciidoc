@@ -4,8 +4,10 @@ This repository contains the current version of the "xref:paper.asciidoc[Minimal
 
 === Citation
 When using this guideline, please cite the latest published version:
+
 <ref 2023>
 
 === Previous verions
 A complete list of previous published versions of the guideline:
-<ref 2023>
+
+1. <ref 2023>
