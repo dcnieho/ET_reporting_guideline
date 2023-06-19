@@ -1,6 +1,6 @@
 = Minimal reporting guideline for research involving eye tracking
 
-This repository contains the current version of the "xref:paper.asciidoc[Minimal reporting guideline for research involving eye tracking]" paper, and is meant to serve as a forum for continuous evolution of the document, as well as discussion surrounding it. Please contribute by means of starting a link:/discussions[discussion], or opening a link:/pulls[pull request]. If you think there is an issue with the current text, notify us by opening an link:/issues[issue].
+This repository contains the current version of the "xref:paper.asciidoc[Minimal reporting guideline for research involving eye tracking]" paper, and is meant to serve as a forum for continuous evolution of the document, as well as discussion surrounding it. Please contribute by means of starting a link:https://github.com/dcnieho/ET_reporting_guideline/discussions[discussion], or opening a link:https://github.com/dcnieho/ET_reporting_guideline/pulls[pull request]. If you think there is an issue with the current text, notify us by opening an link:https://github.com/dcnieho/ET_reporting_guideline/issues[issue].
 
 === Citation
 When using this guideline, please cite the latest published version:
