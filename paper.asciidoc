@@ -655,3 +655,95 @@ _21_(3), 13–13. https://doi.org/10.1167/JOV.21.3.13
 Ukwade, M. T., & Bedell, H. E. (1992). Variation of congenital nystagmus
 with viewing distance. _Optometry and Vision Science_, _69_(12),
 976–985. http://www.ncbi.nlm.nih.gov/pubmed/1300523
+
+== Supplementary material: initial item list
+The list below contains all 69 anonymous suggestions originally proposed
+by the group for inclusion in the guideline. Please note that this is not
+the final checklist; it is presented solely to illustrate the guideline
+development process. The final checklist can be found in
+<<table-checklist>> of the manuscript.
+
+=== Group A (Environment)
+- Illuminance
+- Vibrations
+- Infrared light sources
+- Ambient noise
+- Presence of others
+
+=== Group B (Eye tracker)
+- Manufacturer (including city and country)
+- Model name
+- Technique
+- Filters (built-in)
+- Tracking volume
+- Soft- and firmware versions
+
+=== Group C (Visual stimulus)
+- Dimensions
+- Luminance (max, min, Gamma corrected)
+- Chromatic properties
+- Uniformity (of luminance / chromatic pr.s)
+- Frame Rate
+- Contrast
+- Other properties
+- Source
+- Participant to eye tracker distance
+- Participant to display monitor distance
+- Head movement restrictions
+
+=== Group D (Participant characteristics)
+- Age
+- Gender/Sex
+- Visual acuity
+- Visual aids / corrections
+- Makeup
+- Eye colour and specific iris features
+- Baseline pupil size
+- Interocular distance
+- Palpebral fissure (eye cleft)
+- Eye-lash direction
+- Eye dominance
+- Eye recorded
+- Facial movements; due to speech etc.
+- Sleep deprivation
+- Expertise
+- Oculomotor atypicalities
+- Clinical characteristics
+- Consent
+- Substance use (state effects)
+- Knowledge of the hypothesis
+
+=== Group E (Calibration)
+- Target
+- Number/position of calibration points
+- Number/position of validation points
+- Binocular or monocular
+- Control
+- Operator expertise
+- Drift compensation and recalibrations
+
+=== Group F (Experiment)
+- Trials
+- Practice trials
+- Instruction
+- Recording
+- Breaks
+- Exclusion criteria
+- Frequency of validation
+
+=== Group G (Signal)
+- Sampling frequency
+- Latency
+- Data loss
+- Attrition rate
+- Spatial accuracy
+- Spatial precision
+
+=== Group H (Events and AOIs)
+- Name of event detection algorithm
+- Algorithm thresholds
+- Area of interest size
+- Area of interest margin
+- Distances between AOIs
+- Area of interest overlap
+- Sample or event-based area of interest metrics
