@@ -1,6 +1,6 @@
 = Minimal reporting guideline for research involving eye tracking
 
-This repository contains the current version of the "xref:paper.asciidoc[Minimal reporting guideline for research involving eye tracking]" paper, and is meant to serve as a forum for continuous evolution of the document, as well as discussion surrounding it. Please contribute by means of starting a link:https://github.com/dcnieho/ET_reporting_guideline/discussions[discussion], or opening a link:https://github.com/dcnieho/ET_reporting_guideline/pulls[pull request]. If you think there is an issue with the current text, notify us by opening an link:https://github.com/dcnieho/ET_reporting_guideline/issues[issue].
+This repository contains the current version of the "xref:paper.asciidoc[Minimal reporting guideline for research involving eye tracking]" paper, and is meant to serve as a forum for continuous evolution of the document, as well as discussion surrounding it. 
 
 === Citation
 When using this guideline, please cite the latest published version:
@@ -32,6 +32,15 @@ BibTeX:
   year = {2022}
 }
 ----
+
+== Contribution and discussion
+There are three ways of interacting with the guideline document and a subset of the author team:
+
+1. If you wish to propose a fix or an addition, please send a link:https://github.com/dcnieho/ET_reporting_guideline/pulls[pull request].
+2. If you think there is an issue with the current text, but wish to discuss this issue, please notify us by opening an link:https://github.com/dcnieho/ET_reporting_guideline/issues[issue].
+3. If you have a request for clarification, otherwise need help _using the text_ or have a more general discussion point, you can start a link:https://github.com/dcnieho/ET_reporting_guideline/discussions[discussion].
+
+As this guideline is supposed to be a live document, we aim to respond to your contribution as soon as possible. The paper itself will be reviewed and a new version published in 4-year intervals, unless it is deemed necessary to do so sooner. Proposals to change the live document housed in this repository made outside this update process should be sent as pull requests on this repository. Such changes require the approval of multiple authors of the guideline to be accepted. The workflow for this approval process will be detailed here once it is established.
 
 === Previous verions
 A complete list of previous published versions of the guideline:
