@@ -5,8 +5,7 @@ This repository contains the current version of the "xref:paper.asciidoc[Minimal
 === Citation
 When using this guideline, please cite the latest published version:
 
-Dunn, M.J., Alexander, R.G., Amiebenomo, O.M., Arblaster, G., Atan, D., Erichsen, J.T., Ettinger, U., Giardini, M.E., Gilchrist, I.D., Hamilton, R., Hessels, R.S., Hodgins, S., Hooge, I.T.C., Jackson, B.S., Lee, H., Macknik, S.L., Martinez-Conde, S., McIlreavy, L., Muratori, L.M., Niehorster, D.C., Nyström, M., Otero-Millan, J., Schlüssel, M.M., Self, J.E., Singh, T., Smyrnis, N., Sprenger, A. (accepted). Minimal reporting guideline for research involving eye
-tracking (2023 edition). Behavior Research Methods.
+Dunn, M.J., Alexander, R.G., Amiebenomo, O.M., Arblaster, G., Atan, D., Erichsen, J.T., Ettinger, U., Giardini, M.E., Gilchrist, I.D., Hamilton, R., Hessels, R.S., Hodgins, S., Hooge, I.T.C., Jackson, B.S., Lee, H., Macknik, S.L., Martinez-Conde, S., McIlreavy, L., Muratori, L.M., Niehorster, D.C., Nyström, M., Otero-Millan, J., Schlüssel, M.M., Self, J.E., Singh, T., Smyrnis, N., Sprenger, A. (accepted). Minimal reporting guideline for research involving eye tracking (2023 edition). Behavior Research Methods.
 
 BibTeX:
 [source,bibtex]
@@ -37,5 +36,4 @@ BibTeX:
 === Previous verions
 A complete list of previous published versions of the guideline:
 
-1. Dunn, M.J., Alexander, R.G., Amiebenomo, O.M., Arblaster, G., Atan, D., Erichsen, J.T., Ettinger, U., Giardini, M.E., Gilchrist, I.D., Hamilton, R., Hessels, R.S., Hodgins, S., Hooge, I.T.C., Jackson, B.S., Lee, H., Macknik, S.L., Martinez-Conde, S., McIlreavy, L., Muratori, L.M., Niehorster, D.C., Nyström, M., Otero-Millan, J., Schlüssel, M.M., Self, J.E., Singh, T., Smyrnis, N., Sprenger, A. (accepted). Minimal reporting guideline for research involving eye
-tracking (2023 edition). Behavior Research Methods.
+2023. Dunn, M.J., Alexander, R.G., Amiebenomo, O.M., Arblaster, G., Atan, D., Erichsen, J.T., Ettinger, U., Giardini, M.E., Gilchrist, I.D., Hamilton, R., Hessels, R.S., Hodgins, S., Hooge, I.T.C., Jackson, B.S., Lee, H., Macknik, S.L., Martinez-Conde, S., McIlreavy, L., Muratori, L.M., Niehorster, D.C., Nyström, M., Otero-Millan, J., Schlüssel, M.M., Self, J.E., Singh, T., Smyrnis, N., Sprenger, A. (accepted). Minimal reporting guideline for research involving eye tracking (2023 edition). Behavior Research Methods.
