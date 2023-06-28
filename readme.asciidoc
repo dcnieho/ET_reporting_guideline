@@ -1,6 +1,6 @@
 = Minimal reporting guideline for research involving eye tracking
 
-This repository contains the current version of the "xref:paper.asciidoc[Minimal reporting guideline for research involving eye tracking]" paper, and is meant to serve as a forum for continuous evolution of the document, as well as discussion surrounding it. 
+This repository contains the current version of the "xref:paper.asciidoc[Minimal reporting guideline for research involving eye tracking]" paper, and is meant to serve as a forum for <<contribution-and-discussion,continuous evolution of the guideline document>>, as well as <<contribution-and-discussion,discussion>> surrounding it. 
 
 === Citation
 When using this guideline, please cite the latest published version:
