@@ -94,7 +94,7 @@ A guideline is proposed that comprises the
 minimum items to be reported in research studies involving an eye
 tracker and human or non-human primate participant(s). This guideline
 was developed over a three-year period using a consensus-based process
-via an open invite to the international eye tracking community. This
+via an open invitation to the international eye tracking community. This
 guideline will be reviewed at maximum intervals of four years.
 
 == Introduction
@@ -115,7 +115,7 @@ the listed items can affect recorded eye tracking data.
 The guideline applies to any study which involves an eye tracker and
 human or non-human primate participant(s). Since the expertise of the
 author group lies primarily in human and non-human primate work, the
-guideline is aimed at research with these species. While the
+guideline is aimed at research with only these species. While the
 guideline may prove helpful when designing
 research studies and preparing manuscripts involving studies of other
 species, the eye tracking technology involved may be considerably
@@ -139,7 +139,7 @@ pupil size, or blinks) are outside the scope of this guideline because
 they are not eye tracking _per se_. Note that suitable guidance already
 exists for pupillometry (Kelbsch et al., 2019). This reporting guideline
 provides a minimum list of reportable items relating specifically to eye
-tracking. It therefore does not replace other reporting guidelines which
+tracking. It therefore does not replace other reporting guidelines that
 cover broader aspects of study design (e.g., CONSORT for randomized
 trials, STROBE for observational studies, etc.), nor does it repeat
 items expected to be reported in intersecting research fields (such as
@@ -147,12 +147,13 @@ stimulus size, which should be reported in vision research).
 
 === Flexibility
 
-Although this document is intended as a minimum reporting guideline,
-the extent to which incomplete reporting undermines reproducibility
-or interpretability depends on the nature of any given study. We
-therefore advise against rigidly adopting the checklist as an inflexible
-barrier to publication. Although all items on the checklist should be
-_considered_, failing to report an item should not automatically
+Reporting guidelines set the minimum amount of information needed in a
+scientific article for readers to understand, critically appraise, and
+reproduce the methods. However, the extent to which reporting can be
+considered incomplete depends on the nature of any given study. We
+therefore advise against rigid adoption of the guideline as an
+inflexible barrier to publication. All items in the guideline should be
+_considered_, but failing to report an item should not automatically
 preclude publication. Authors, editors and reviewers should consider on
 a case-by-case basis whether unreported items have the potential to
 undermine reproducibility or interpretability in the context of the
@@ -165,7 +166,7 @@ The terminology employed in this document aims to follow established ISO
 99:2007 norms (International Organization for Standardization [ISO],
 2007). However, note that, owing to consistent historical usage by the
 eye tracking community, the term ‘calibration’ is used with a looser
-meaning and refers to any procedure which enables an eye tracker’s
+meaning and refers to any procedure that enables an eye tracker’s
 output to be interpreted within its intended scope, i.e., to assess the
 empirical validity (Peacock & Peacock, 2010, p. 94) of the measured
 parameters.
@@ -190,7 +191,7 @@ development (Moher et al., 2010). All meetings were held online.
 In May 2020, a meeting was held to discuss whether an eye tracking
 methods reporting guideline was needed, and consider whether existing
 published guidance (Hessels & Hooge, 2019; Oakes, 2010) was sufficient
-to provide a minimal reporting guideline covering most eye tracking
+to provide a minimum reporting guideline covering most eye tracking
 research applications. The group decided that a complete guideline was
 warranted and opted to produce a single document to cover minimum
 reportable items across all eye tracking fields, rather than separate
@@ -532,6 +533,11 @@ movements will change for targets presented at different depths.
 Timing of updates of this document will be guided by feedback and use as
 well as technological and other developments in the field. Review will
 occur at maximum intervals of four years.
+
+== Conclusion
+This guideline presents a recommended minimal set of items to consider
+reporting in eye tracking studies. The aim is to improve reproducibility
+of methods and comparability of results.
 
 == Open practices statement
 
