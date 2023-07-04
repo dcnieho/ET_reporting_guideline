@@ -36,8 +36,8 @@ BibTeX:
 == Contribution and discussion
 There are three ways of interacting with the guideline document and a subset of the author team:
 
-1. If you wish to propose a fix or an addition, please send a link:https://github.com/dcnieho/ET_reporting_guideline/pulls[pull request].
-2. If you think there is an issue with the current text, but wish to discuss this issue, please notify us by opening an link:https://github.com/dcnieho/ET_reporting_guideline/issues[issue].
+1. If you wish to propose a fix or an addition and are comfortable using link:https://docs.github.com/en/get-started/using-git[Git commands], please send a link:https://github.com/dcnieho/ET_reporting_guideline/pulls[pull request].
+2. If you think there is an issue with the current text and wish to discuss this issue, please notify us by opening an link:https://github.com/dcnieho/ET_reporting_guideline/issues[issue].
 3. If you have a request for clarification, otherwise need help _using the text_ or have a more general discussion point, you can start a link:https://github.com/dcnieho/ET_reporting_guideline/discussions[discussion].
 
 As this guideline is supposed to be a live document, we aim to respond to your contribution as soon as possible. The paper itself will be reviewed and a new version published in 4-year intervals, unless it is deemed necessary to do so sooner. Proposals to change the live document housed in this repository made outside this update process should be sent as pull requests on this repository. Such changes require the approval of multiple authors of the guideline to be accepted. The workflow for this approval process will be detailed here once it is established.
